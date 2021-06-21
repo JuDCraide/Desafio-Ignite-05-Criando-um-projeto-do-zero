@@ -1,3 +1,3 @@
-export default function Header() {
-  // TODO
+export function Header() {
+  return <span>header</span>;
 }

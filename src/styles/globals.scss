@@ -5,9 +5,7 @@
 }
 
 :root {
-  --white: #fff;
-
-  --grey-50: #f8f8f80f;
+  --grey-50: #F8F8F8;
   --grey-200: #d7d7d7;
   --grey-300: #bbbbbb;
   --grey-900: #1a1d23;
@@ -29,7 +27,7 @@
 
 body {
   background: var(--grey-900);
-  color: var(--white);
+  color: var(--grey-200);
 }
 
 body,

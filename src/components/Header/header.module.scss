@@ -8,8 +8,11 @@
   align-items: center;
   justify-content: flex-start;
 
+  a {
+    padding-left: 18.75%;
+  }
+
   img {
     display: block;
-    padding-left: 18.75%;
   }
 }
